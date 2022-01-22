@@ -1,0 +1,31 @@
+<resources>
+    <string name="app_name">Buy Me First</string>
+    <string name="buy_me_first">Buy me first</string>
+    <string name="email"> Email</string>
+    <string name="join_now">JOIN NOW</string>
+    <string name="forgot_password">FORGOT PASSWORD ?</string>
+    <string name="warning_on_email">Please provide email</string>
+    <string name="warning_on_password">Please provide password</string>
+    <string name="warning_on_re_password">Retype your password</string>
+    <string name="password_not_match">Password not match</string>
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+    <string name="description_example">Lorem ipsum dolor sit amet,consectetur adipiscing elit. Etelit ultrices
+        justo facilisi cras. Senectus diam convallis scelerisque mauris
+    Lorem ipsum dolor sit amet,consectetur adipiscing elit. Etelit ultrices
+        justo facilisi cras. Senectus diam convallis scelerisque mauris
+    Lorem ipsum dolor sit amet,consectetur adipiscing elit. Etelit ultrices
+        justo facilisi cras. Senectus diam convallis scelerisque maurisLorem ipsum dolor sit amet,consectetur adipiscing elit. Etelit ultrices
+        justo facilisi cras. Senectus diam convallis scelerisque maurisLorem ipsum dolor sit amet,consectetur adipiscing elit. Etelit ultrices
+        justo facilisi cras. Senectus diam convallis scelerisque mauris
+        Lorem ipsum dolor sit amet,consectetur adipiscing elit. Etelit ultrices
+        justo facilisi cras. Senectus diam convallis scelerisque mauris
+        Lorem ipsum dolor sit amet,consectetur adipiscing elit. Etelit ultrices
+        justo facilisi cras. Senectus diam convallis scelerisque maurisLorem ipsum dolor sit amet,consectetur adipiscing elit. Etelit ultrices
+        justo facilisi cras. Senectus diam convallis scelerisque mauris
+
+
+
+
+    </string>
+</resources>

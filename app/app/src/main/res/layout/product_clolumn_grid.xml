@@ -1,0 +1,46 @@
+<?xml version="1.0" encoding="utf-8"?>
+<com.google.android.material.card.MaterialCardView xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    android:orientation="vertical"
+    android:layout_width="match_parent"
+    android:layout_height="wrap_content"
+    app:strokeColor="#9F000000"
+    app:strokeWidth="1dp"
+    app:cardCornerRadius="10dp"
+    >
+
+    <RelativeLayout
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:paddingVertical="3dp"
+        android:paddingHorizontal="5dp"
+    >
+    <ImageView
+        android:id="@+id/idIVProductImg"
+        android:layout_width="match_parent"
+        android:layout_height="100dp"
+        android:layout_gravity="center"
+        android:layout_alignParentTop="true"
+        android:src="@drawable/company_logo_removebg_preview"
+        />
+    <TextView
+        android:id="@+id/idTVProductName"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:layout_below="@+id/idIVProductImg"
+        android:layout_marginTop="5dp"
+        android:text="Samsung"
+        android:textSize="16dp"
+        android:textColor="@color/black"
+        />
+    <TextView
+        android:id="@+id/idTVProductPrice"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:layout_below="@+id/idTVProductName"
+        android:text="$123"
+        android:textSize="16dp"
+        android:textColor="#E16565"
+        />
+    </RelativeLayout>
+</com.google.android.material.card.MaterialCardView>
