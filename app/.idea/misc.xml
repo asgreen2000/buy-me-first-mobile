@@ -3,6 +3,17 @@
   <component name="DesignSurface">
     <option name="filePathToZoomLevelMap">
       <map>
+        <entry key="..\:/Mobile/buy-me-first-mobile/app/app/src/main/res/drawable/custom_edit_text.xml" value="0.2574074074074074" />
+        <entry key="..\:/Mobile/buy-me-first-mobile/app/app/src/main/res/drawable/custom_main_button_1.xml" value="0.2574074074074074" />
+        <entry key="..\:/Mobile/buy-me-first-mobile/app/app/src/main/res/drawable/ic_account_nav.xml" value="0.2574074074074074" />
+        <entry key="..\:/Mobile/buy-me-first-mobile/app/app/src/main/res/drawable/ic_email.xml" value="0.2574074074074074" />
+        <entry key="..\:/Mobile/buy-me-first-mobile/app/app/src/main/res/drawable/ic_home_nav.xml" value="0.2574074074074074" />
+        <entry key="..\:/Mobile/buy-me-first-mobile/app/app/src/main/res/drawable/ic_shopping_cart_nav.xml" value="0.2574074074074074" />
+        <entry key="..\:/Mobile/buy-me-first-mobile/app/app/src/main/res/layout/activity_login.xml" value="0.4" />
+        <entry key="..\:/Mobile/buy-me-first-mobile/app/app/src/main/res/layout/activity_main.xml" value="0.264" />
+        <entry key="..\:/Mobile/buy-me-first-mobile/app/app/src/main/res/layout/activity_product_detail.xml" value="0.13858695652173914" />
+        <entry key="..\:/Mobile/buy-me-first-mobile/app/app/src/main/res/layout/activity_register.xml" value="0.13858695652173914" />
+        <entry key="..\:/Mobile/buy-me-first-mobile/app/app/src/main/res/menu/bottom_bar_menu.xml" value="0.25416666666666665" />
         <entry key="..\:/mobile-dev/BuyMeFirst/app/src/main/res/drawable/add_to_cart.xml" value="0.2638888888888889" />
         <entry key="..\:/mobile-dev/BuyMeFirst/app/src/main/res/drawable/custom_bar.xml" value="0.2703125" />
         <entry key="..\:/mobile-dev/BuyMeFirst/app/src/main/res/drawable/custom_button.xml" value="0.2703125" />

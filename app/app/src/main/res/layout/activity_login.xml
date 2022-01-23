@@ -4,19 +4,15 @@
     xmlns:tools="http://schemas.android.com/tools"
     android:layout_width="match_parent"
     android:layout_height="match_parent"
-    android:background="@drawable/background"
+    android:background="#fff"
     tools:context=".LoginActivity">
 
     <androidx.appcompat.widget.AppCompatTextView
         android:id="@+id/idTVLogo"
         android:layout_width="match_parent"
         android:layout_height="wrap_content"
-        android:fontFamily="@font/almendra_sc"
         android:text="@string/buy_me_first"
-        android:textAllCaps="true"
-        android:textAlignment="center"
-        android:textColor="#fff"
-        android:textSize="50sp"
+        style="@style/company_name_style"
         app:layout_constraintBottom_toBottomOf="parent"
         app:layout_constraintEnd_toEndOf="parent"
         app:layout_constraintHorizontal_bias="0.0"
@@ -72,7 +68,7 @@
             android:layout_marginTop="30dp"
             android:background="@drawable/custom_main_button_1"
             android:text="Login"
-            android:textColor="#fff"
+            android:textColor="@color/white"
             app:layout_constraintVertical_bias="0.074" />
 
         <RelativeLayout
@@ -85,7 +81,7 @@
                 android:layout_height="wrap_content"
                 android:layout_alignParentStart="true"
                 android:text="@string/forgot_password"
-                android:textColor="#C8FFEBEE" />
+                android:textColor="#B7000000" />
 
             <TextView
                 android:id="@+id/idTVToRegister"
@@ -93,7 +89,7 @@
                 android:layout_height="wrap_content"
                 android:layout_alignParentEnd="true"
                 android:text="@string/join_now"
-                android:textColor="#F8FFEBEE" />
+                android:textColor="#1DA6A6" />
         </RelativeLayout>
     </LinearLayout>
 
